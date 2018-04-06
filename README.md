@@ -12,3 +12,4 @@ Goals/procedure:
 3: Convert a laptop keyboard to usb output and use the keyboard to manipulate some basic gui on the monitor
 4: Build a smart-mirror type gui to display relevant info on the screen (editable through keyboard input).
 5: Build (3-d print) a stand and enclosure for the various parts
+https://reverseengineering.stackexchange.com/questions/3815/reversing-elf-64-bit-lsb-executable-x86-64-gdb
