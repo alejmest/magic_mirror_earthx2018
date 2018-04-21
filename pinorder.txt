@@ -1,0 +1,9 @@
+pin order: 
+Left-to-right:
+White
+Green 
+black 
+red
+orange
+brown
+
